@@ -1,7 +1,7 @@
 {
-  "name": "Shubham's Blog",
-  "short_name": "My Blog",
-  "description": "My Blog Application",
+  "name": "Shubham Reacts",
+  "short_name": "Shubham's Blog",
+  "description": "Shubham's Blog Application",
   "icons": [
     {
       "src": "icons/32.png",
@@ -52,6 +52,6 @@
   ],
   "start_url": "/",
   "display": "fullscreen",
-  "theme_color": "#581c87",
-  "background_color": "#581c87"
+  "theme_color": "#BF40BF",
+  "background_color": "#BF40BF"
 }

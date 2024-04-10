@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { use } from "react";
 import { getBlogs } from "../lib/blogs";
 import Image from "next/image";
